@@ -70,3 +70,13 @@ i{
 .lixo{
     margin-left: 10%;
 }
+li{
+    background-color: #ede997;
+    text-align: center;
+    width: 50%;
+    border: solid 1px;
+}
+ul{
+    margin-top: 5%;
+    margin-left: 10%;
+}
